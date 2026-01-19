@@ -166,13 +166,22 @@
           <mxGeometry height="40" width="90" x="-170" y="250" as="geometry" />
         </mxCell>
         <mxCell id="4xbL7iZd3ECwpWrHYFm3-39" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Movies" vertex="1">
-          <mxGeometry height="40" width="50" x="-60" y="250" as="geometry" />
+          <mxGeometry height="40" width="50" x="-70" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="4xbL7iZd3ECwpWrHYFm3-40" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+        <mxCell id="4xbL7iZd3ECwpWrHYFm3-40" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4xbL7iZd3ECwpWrHYFm3-39" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="230" as="sourcePoint" />
             <mxPoint x="-30" y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4xbL7iZd3ECwpWrHYFm3-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="4xbL7iZd3ECwpWrHYFm3-44" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="230" as="sourcePoint" />
+            <mxPoint y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xbL7iZd3ECwpWrHYFm3-44" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="TV Series" vertex="1">
+          <mxGeometry height="40" width="60" x="-10" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
